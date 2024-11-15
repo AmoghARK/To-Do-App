@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-^1-6t-z-qex$s#ggkt7tv$06it0n4_%bsvoyqmy!$zjs%!0o$@
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://todo-project-e6h3.onrender.com', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['todo-project-e6h3.onrender.com', 'localhost', '127.0.0.1']
 
 
 INSTALLED_APPS = [
