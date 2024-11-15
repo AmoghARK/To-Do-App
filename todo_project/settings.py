@@ -23,13 +23,11 @@ TEMPLATE_DIR = os.path.join(BASE_DIR,'templates')
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-^1-6t-z-qex$s#ggkt7tv$06it0n4_%bsvoyqmy!$zjs%!0o$@'
 
-# SECURITY WARNING: don't run with debug turned on in production!
+
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://to-do-app-df1h.onrender.com']
+ALLOWED_HOSTS = ['https://todo-project-e6h3.onrender.com']
 
-
-# Application definition
 
 INSTALLED_APPS = [
     'django.contrib.admin',
